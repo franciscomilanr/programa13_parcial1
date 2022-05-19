@@ -18,6 +18,6 @@
   <li>Ciclo while</li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que calcula la suma de varios mientras no sean 0  </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que calcula la suma de varios mientras no sean 0.  </li>
  <br>
  <li><b> Breve descripción: </b>Programa 13 en C que pide cualquier cantidad de numero y calcula su suma para la materia programacion estructurada. </li>
